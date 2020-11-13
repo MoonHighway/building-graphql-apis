@@ -16,9 +16,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
 - [Pet Library Playground](https://pet-library.moonhighway.com)
-- [Refactored Pet Library](http://funded-pet-library.moonhighway.com/)
-- [Github GraphQL Explorer](https://developer.github.com/v4/explorer/)
-- [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
+- [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
 ### GraphQL Schema Definition Language
@@ -28,8 +26,6 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Starting Schema](https://github.com/MoonHighway/pet-library-schema)
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
-- [Lab Instructions](https://slides.com/moonhighway/schema-lab/)
-- [Lab Repository](https://github.com/graphqlworkshop/schema-activity)
 - [Mocking](https://github.com/graphqlworkshop/mocking)
 
 ### Building a GraphQL API
