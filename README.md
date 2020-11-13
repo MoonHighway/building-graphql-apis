@@ -33,13 +33,5 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 - [Photo Share API Sample - MongoDB](https://github.com/graphqlworkshop/photo-share-api/blob/step-e3/src/index.js)
-- [Data Sources Docs](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
-- [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 - [Resolver Best Practices - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
-- [Mutation Pet Library](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
-
-## Next Steps
-
-- [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
-- [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 
