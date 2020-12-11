@@ -35,3 +35,25 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Photo Share API Sample - MongoDB](https://github.com/graphqlworkshop/photo-share-api/blob/step-e3/src/index.js)
 - [Resolver Best Practices - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 
+### Apollo DataSources
+
+- [Countries DataSources Complete](https://github.com/MoonHighway/countries-datasources/blob/master/index.js)
+- [Apollo REST Data Sources Docs](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
+
+### Apollo Federation
+
+**Slides**
+
+- [Apollo Federation](https://slides.com/moonhighway/apollo-federation/)
+
+**Federation Projects**
+
+- [Acquisition API](https://github.com/eveporcello/acquisitions-api)
+- [Hue Review: Start Files](https://github.com/graphqlworkshop/hue-review-activity)
+- [Hue Review: Finished Files](https://github.com/graphqlworkshop/hue-review-activity/tree/complete)
+- [Snowtooth Federation Lab: Start Files](https://github.com/graphqlworkshop/snowtooth-federation-lab)
+
+### Apollo Studio
+
+- [Apollo Studio](https://studio.apollographql.com)
+- [Apollo Studio Docs](https://www.apollographql.com/docs/studio/)
