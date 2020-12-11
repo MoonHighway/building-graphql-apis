@@ -30,6 +30,8 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 ### Building a GraphQL API
 
+- **[API Start - Dec 11](https://github.com/graphqlworkshop/snowtooth-api/tree/workshop-start)**
+- **[API Start - Dec 11 - CodeSandbox](https://codesandbox.io/s/cool-grass-q73pp?file=/index.js)
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 - [Photo Share API Sample - MongoDB](https://github.com/graphqlworkshop/photo-share-api/blob/step-e3/src/index.js)
